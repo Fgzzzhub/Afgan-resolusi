@@ -1,0 +1,7 @@
+Afgan Resolusi
+-Konsisten untuk belajar coding (FrontEnd Developer) "setidaknya faham secara mendalam mengenai FrontEnd development"
+  -Bisa menguasai Html, Vanilla css, Framework css (tailwind & bootstrap), paham javascript dasar
+  -Bisa membuat projectan simple menggunakan html css dan javascript
+  -Faham lebih mendalam tentang framework javascript ("meski belum menguasai setidaknya faham dan bisa menggunakanya secara proporsional")
+  -Memahami secara konsep dari semua roadmap FrontEnd dan bisa menjalankanya secara simple
+  -mengikuti arahan yang diberikan
