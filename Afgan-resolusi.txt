@@ -5,3 +5,4 @@ Afgan Resolusi
   -Faham lebih mendalam tentang framework javascript ("meski belum menguasai setidaknya faham dan bisa menggunakanya secara proporsional")
   -Memahami secara konsep dari semua roadmap FrontEnd dan bisa menjalankanya secara simple
   -mengikuti arahan yang diberikan
+-Belajar dengan baik di dalam sekolah dan mengikuti apa yang diperintahkan oleh guru
